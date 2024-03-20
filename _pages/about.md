@@ -7,7 +7,7 @@ subtitle: <a href='#'></a>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info:
   
 news: false # includes a list of news items
