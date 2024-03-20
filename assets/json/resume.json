@@ -21,7 +21,7 @@
       "highlights": [
         
       ]
-    }
+    },
     {
       "name": "Eviden",
       "position": "AI Engineer",
@@ -32,7 +32,36 @@
       "highlights": [
         "LLM Finetuning", "QA with PDF, CSV Files using Langchain", "Voice-to-text from OpenAI and NVIDIA NeMo", "LLM Guardrails from GuardrailsAI"
       ]
-    }
+    },
+    {
+       "name": "SynergisticIT",
+      "position": "Data Science and ML Engineer",
+      "url": "",
+      "startDate": "02-2022",
+      "endDate": "02-2023",
+      "summary": "Data Science and Machine Learning - Regression and Classification problems",
+      "highlights": [
+        "Predicted Parkinson’s disease onset using classification algorithms", "Utilized deep learning for CIFAR-10 dataset image classification", "Performed sentiment analysis on e-commerce reviews using NLP tools"
+      ]
+    },
+    {
+      "name": "Lam Research",
+      "position": "Engineer 3",
+      "url": "",
+      "startDate": "06-2021",
+      "endDate": "02-2022",
+      "summary": "Applied regression techniques on datasets to model temperature.",
+      "highlights": []
+    },
+    {
+      "name": "Georgia Institute of Technology",
+      "position": "Graduate Research Assistant / Graduate Teaching Assistant",
+      "url": "",
+      "startDate": "08-2015",
+      "endDate": "05-2021",
+      "summary": "Conducted data analytics for CVR factor extraction on time-series data and analytics on voltage sag occurrences.",
+      "highlights": []
+    },
     
   ],
   "volunteer": [
