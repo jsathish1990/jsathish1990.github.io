@@ -12,19 +12,23 @@
       year: 2021
       description:
         - Electrical Engineering
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MS
+      institution: University of Minnesota
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Electrical Engineering
+   - title: BE
+      institution: Anna University
+      year: 2012
+      description:
+        - Electrical and Electronics Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Part-time Instructor
+      institution: Udemy
+      year: 2023 - present
       description:
         - Description 1.
         - Description 2.
