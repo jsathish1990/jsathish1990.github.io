@@ -1,37 +1,39 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sathish Jayaraman",
+    "label": "Data Science and ML/AI Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "jsathish1990@gmail.com",
+    "phone": "9591096626",
+    "url": "https://jsathish1990.github.io",
+    "summary": "",
+    "location": {},
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Udemy",
+      "position": "Part-Time Instructor",
+      "url": "",
+      "startDate": "10-2023",
+      "endDate": "",
+      "summary": "Problem solving with PySpark, Prompt Engineering and Generative AI - Fundamentals",
+      "highlights": [
+        
+      ]
     }
+    {
+      "name": "Eviden",
+      "position": "AI Engineer",
+      "url": "",
+      "startDate": "04-2023",
+      "endDate": "09-2023",
+      "summary": "Worked on Natural Language Processing with large language models like GPT-3.5",
+      "highlights": [
+        "LLM Finetuning", "QA with PDF, CSV Files using Langchain", "Voice-to-text from OpenAI and NVIDIA NeMo", "LLM Guardrails from GuardrailsAI"
+      ]
+    }
+    
   ],
   "volunteer": [
     {
