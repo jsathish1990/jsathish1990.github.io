@@ -3,6 +3,10 @@
   contents:
     - name: Full Name
       value: Sathish Jayaraman
+    - name: Email
+      value: jsathish1990@gmail.com
+    - name: Phone
+      value: 9591096626
       
 - title: Education
   type: time_table
