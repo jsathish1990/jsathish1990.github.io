@@ -64,3 +64,14 @@
         - Conducted data analytics for CVR factor extraction on time- series data. 
         - Analytics on voltage sag occurrences.
 
+- title: Select Publications
+  type: time_table
+  contents:
+      description: 
+        - S. Jayaraman et al., "Improving Energy Efficiency at Industrial Plants...", IEEE Transactions on Industry Applications
+        - Jayaraman, S., et al. (2018). "Reducing Energy Consumption in In- dustrial Plants...", IEEE ECCE.
+
+- title: Languages and Interests
+  type: list
+  contents:
+    - Python, R, SQL, NoSQL, Machine Learning, Data Analysis, Deep Learning, Cloud Computing
