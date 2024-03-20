@@ -20,35 +20,35 @@
 - title: Experience
   type: time_table
   contents:
-    - Role: Part-time Instructor
-      Where: Udemy
+    - title: Part-time Instructor
+      institution: Udemy
       year: Since Oct 2023
       description:
         - Problem solving with PySpark - Regression and Classification 
         - Prompt Engineering and Generative AI - Fundamentals
-   - Role: AI Engineer
-      Where: Eviden
-      year: Apr 2023 - Sep 2023
-      description:
+   - title: AI Engineer
+     institution: Eviden
+     year: Apr 2023 - Sep 2023
+     description:
         - Worked on Natural Language Processing with large language models like GPT-3.5
         - Fine-tuned language models for diverse applications, including PDF and txt integration using Langchain,
         - Worked on Voice-to-text models from OpenAI and NVIDIA NeMo
         - Worked with Guardrail from NVIDIA NeMo, Guardrail.AI to val- idate LLM responses
-    - Role: Data Science and ML Engineer
-      Where: SynergisticIT
+    - title: Data Science and ML Engineer
+      institution: SynergisticIT
       year: Feb 2022 - Feb 2023
       description:
         - Predicted Parkinson’s disease onset using classification algorithms.
         - Utilized deep learning for CIFAR-10 dataset image classification.
         - Performed sentiment analysis on e-commerce reviews using NLP tools.
-    - Role: Engineer III
-      Where: Lam Research
+    - title: Engineer III
+      institution: Lam Research
       year: Jun 2021 - Feb 2022
       description:
         - Applied regression techniques on datasets to model temperature.
 
-    - Role: Graduate Research Assistant / Graduate Teaching Assistant
-      Where: Georgia Institute of Technology
+    - title: Graduate Research Assistant / Graduate Teaching Assistant
+      institution: Georgia Institute of Technology
       year: Aug 2015 - May 2021
       description: 
         - Conducted data analytics for CVR factor extraction on time- series data 
