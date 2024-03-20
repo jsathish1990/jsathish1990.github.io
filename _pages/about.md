@@ -11,7 +11,7 @@ profile:
   more_info:
   
 news: false # includes a list of news items
-latest_posts: false # 
+latest posts: false 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: False # includes social icons at the bottom of the page
 ---
