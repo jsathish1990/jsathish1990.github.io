@@ -2,11 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: Dec 08
-    - name: Languages
-      value: English
+      value: Sathish Jayaraman
 
 - title: Education
   type: time_table
