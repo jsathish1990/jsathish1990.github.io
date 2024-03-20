@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jsathish1990
+  
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - jsathish1990/mushrooms
+  - jsathish1990/ChatGPT_time_series
