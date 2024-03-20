@@ -17,6 +17,11 @@
       year: 2014
       description:
         - Electrical Engineering
+    - title: BE
+      institution: Anna University
+      year: 2012
+      description:
+        - Electrical and Electronics Engineering
   
 - title: Experience
   type: time_table
