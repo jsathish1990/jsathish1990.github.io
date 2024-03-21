@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-1. ## **Problem Solving using PySpark - Classification and Regression**
+## **1. Problem Solving using PySpark - Classification and Regression**
 
    [Course Link](https://www.udemy.com/course/problem-solving-using-pyspark-regression-classification/)
 
@@ -20,7 +20,7 @@ nav_order: 6
    - Time Series Analytics and Forecast using PySpark and Prophet.
    - PySpark SQL for data querying.
 
-2. **Prompt Engineering and Generative AI - Fundamentals**
+## **2. Prompt Engineering and Generative AI - Fundamentals**
 
    [Course Link](https://www.udemy.com/course/prompt-engineering-and-generative-ai-fundamentals)
 
