@@ -12,6 +12,18 @@
   },
   "work": [
     {
+      "name": "Fractal",
+      "position": "Data Science at Fractal",
+      "url": "",
+      "startDate": "2024-08-21",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Classification, regression, time series forecasting problems (GCP/Jupyter Notebook), data cleaning, contingency table for categorical data",
+        "Understanding bounding boxes and analysis of similarity between sentences, marketing mix model problem"
+      ]
+    },
+    {
       "name": "Udemy",
       "position": "Part-Time Instructor",
       "url": "",
