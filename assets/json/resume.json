@@ -30,9 +30,7 @@
       "startDate": "10-2023",
       "endDate": "",
       "summary": "Problem solving with PySpark, Prompt Engineering and Generative AI - Fundamentals",
-      "highlights": [
-        
-      ]
+      "highlights": []
     },
     {
       "name": "Eviden",
@@ -42,18 +40,23 @@
       "endDate": "09-2023",
       "summary": "Worked on Natural Language Processing with large language models like GPT-3.5",
       "highlights": [
-        "LLM Finetuning", "QA with PDF, CSV Files using Langchain", "Voice-to-text from OpenAI and NVIDIA NeMo", "LLM Guardrails from GuardrailsAI"
+        "LLM Finetuning",
+        "QA with PDF, CSV Files using Langchain",
+        "Voice-to-text from OpenAI and NVIDIA NeMo",
+        "LLM Guardrails from GuardrailsAI"
       ]
     },
     {
-       "name": "SynergisticIT",
+      "name": "SynergisticIT",
       "position": "Data Science and ML Engineer",
       "url": "",
       "startDate": "02-2022",
       "endDate": "02-2023",
       "summary": "Data Science and Machine Learning - Regression and Classification problems",
       "highlights": [
-        "Predicted Parkinson’s disease onset using classification algorithms", "Utilized deep learning for CIFAR-10 dataset image classification", "Performed sentiment analysis on e-commerce reviews using NLP tools"
+        "Predicted Parkinson’s disease onset using classification algorithms",
+        "Utilized deep learning for CIFAR-10 dataset image classification",
+        "Performed sentiment analysis on e-commerce reviews using NLP tools"
       ]
     },
     {
@@ -73,8 +76,7 @@
       "endDate": "05-2021",
       "summary": "Conducted data analytics for CVR factor extraction on time-series data and analytics on voltage sag occurrences.",
       "highlights": []
-    },
-    
+    }
   ],
   "volunteer": [
     {

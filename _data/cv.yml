@@ -21,7 +21,7 @@
       year: 2014
     - title: BE
       institution: Anna University, Chennai
-      year: 2012 
+      year: 2012
 
 - title: Experience
   type: time_table
@@ -32,20 +32,20 @@
         - Classification, regression, time series forecasting problems (GCP/Jupyter Notebook),
         - Data cleaning, contingency table for categorical data
         - Understanding bounding boxes and analysis of similarity between sentences
-        
+
     - title: Part-time instructor with Udemy
       year: 2023-2024
       description:
         - Problem solving with PySpark.
         - Prompt Engineering and Generative AI - Fundamentals.
-        - Time Series Analysis and Forecasting 
+        - Time Series Analysis and Forecasting
 
     - title: AI Engineer with Eviden
       year: 2023
       description:
         - Natural Language Processing with large language models like GPT-3.5.
         - Fine-tuned language models for diverse applications, including PDF and txt integration using Langchain
-        - Worked on Voice-to-text models from OpenAI and NVIDIA NeMo; 
+        - Worked on Voice-to-text models from OpenAI and NVIDIA NeMo;
         - Worked with Guardrail from NVIDIA NeMo, Guardrail.AI to val- idate LLM responses.
 
     - title: Data Science and ML Engineer with SynergisticIT
@@ -64,14 +64,14 @@
       year: 2020
       description:
         - Data Analytics in the form of heatmaps using Matlab
-      
+
     - title: Graduate Research Assistant / Graduate Teaching Assistant
       institution: Georgia Institute of Technology
       year: 2015-2021
       description:
-        - Conducted data analytics for CVR factor extraction on time- series data. 
+        - Conducted data analytics for CVR factor extraction on time- series data.
         - Analytics on voltage sag occurrences.
-        
+
 - title: Languages and Interests
   type: list
   contents:

@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Representative work 
+description: Representative work
 nav: true
 nav_order: 4
 ---
