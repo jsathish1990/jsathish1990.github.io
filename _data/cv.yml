@@ -30,7 +30,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Data Science
+    - title: Data Science at Fractal Analytics
       year: 2024-Current
       description:
         - Classification, regression, time series forecasting problems (GCP/Jupyter Notebook),
