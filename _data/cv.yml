@@ -11,17 +11,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D., Electrical Engineering
       institution: Georgia Institute of Technology
       year: 2021
       description:
-        - Electrical Engineering.
-    - title: MS
+        - CGPA: 3.85
+    - title: M.Sc., Electrical Engineering
       institution: University of Minnesota
       year: 2014
-    - title: BE
-      institution: Anna University, Chennai
+      description:
+        - CGPA: 3.7
+    - title: B.Eng., Electrical and Electronics Engineering
+      institution: Anna University
       year: 2012
+      description:
+        - CGPA: 8.62/10
 
 - title: Experience
   type: time_table
