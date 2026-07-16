@@ -14,18 +14,21 @@
     {
       "institution": "Georgia Institute of Technology (CGPA: 3.85)",
       "studyType": "Ph.D., Electrical Engineering",
-      "endDate": "2021",
+      "startDate": "2021",
+      "endDate": "",
       "courses": ["Thesis : Improving Energy Efficiency and Productivity at Industrial Plants using Dynamic Voltage Management"]
     },
     {
       "institution": "University of Minnesota (CGPA: 3.7)",
       "studyType": "M.S., Electrical Engineering",
-      "endDate": "2014"
+      "startDate": "2014",
+      "endDate": ""
     },
     {
       "institution": "Anna University (CGPA: 8.62/10)",
       "studyType": "B.Eng., Electrical and Electronics Engineering",
-      "endDate": "2012"
+      "startDate": "2012",
+      "endDate": ""
     }
   ],
   "work": [
