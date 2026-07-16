@@ -10,30 +10,6 @@
     "location": {},
     "profiles": []
   },
-  "education": [
-    {
-      "institution": "Georgia Institute of Technology",
-      "area": "Electrical Engineering",
-      "studyType": "Ph.D.",
-      "endDate": "2021",
-      "score": "3.85",
-      "courses": ["Thesis: Improving Energy Efficiency and Productivity at Industrial Plants using Dynamic Voltage Management"]
-    },
-    {
-      "institution": "University of Minnesota",
-      "area": "Electrical Engineering",
-      "studyType": "M.S.",
-      "endDate": "2014",
-      "score": "3.7"
-    },
-    {
-      "institution": "Anna University",
-      "area": "Electrical and Electronics Engineering",
-      "studyType": "B.Eng.",
-      "endDate": "2012",
-      "score": "8.62/10"
-    }
-  ],
   "work": [
     {
       "name": "Fractal",
