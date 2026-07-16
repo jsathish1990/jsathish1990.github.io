@@ -10,6 +10,15 @@
     "location": {},
     "profiles": []
   },
+  "education": [
+    {
+      "institution": "Georgia Institute of Technology",
+      "area": "Electrical Engineering",
+      "studyType": "Ph.D.",
+      "endDate": "2021",
+      "courses": ["Thesis: Improving Energy Efficiency and Productivity at Industrial Plants using Dynamic Voltage Management"]
+    }
+  ],
   "work": [
     {
       "name": "Fractal",
