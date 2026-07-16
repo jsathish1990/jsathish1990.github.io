@@ -87,12 +87,30 @@
       "highlights": []
     },
     {
+      "name": "Amazon, Atlanta GA",
+      "position": "Intern",
+      "url": "",
+      "startDate": "05-2020",
+      "endDate": "08-2020",
+      "summary": "Data analytics based internship.",
+      "highlights": []
+    },
+    {
       "name": "Georgia Institute of Technology",
       "position": "Graduate Research Assistant / Graduate Teaching Assistant",
       "url": "",
       "startDate": "08-2015",
       "endDate": "05-2021",
       "summary": "Conducted data analytics for CVR factor extraction on time-series data and analytics on voltage sag occurrences.",
+      "highlights": []
+    },
+    {
+      "name": "Rockwell Automation, Mequon, WI",
+      "position": "Engineer",
+      "url": "",
+      "startDate": "05-2013",
+      "endDate": "07-2015",
+      "summary": "Design for Six Sigma Greenbelt; statistical hypothesis testing (T-test) and regression.",
       "highlights": []
     }
   ]
