@@ -56,7 +56,7 @@
     - title: Data Science and ML Engineer with SynergisticIT
       year: 2022-2023
       description:
-        - Predicted Parkinson’s disease onset using classification algorithms.
+        - Predicted Parkinson's disease onset using classification algorithms.
         - Utilized deep learning for CIFAR-10 dataset image classification.
         - Performed sentiment analysis on e-commerce reviews using NLP tools.
 
@@ -76,16 +76,6 @@
       description:
         - Conducted data analytics for CVR factor extraction on time- series data.
         - Analytics on voltage sag occurrences.
-
-- title: Certifications
-  type: list
-  contents:
-    - "AWS Certified Cloud Practitioner; AWS Certified Solutions Architect – Associate."
-    - "Generative AI Fundamentals, Introduction to Large Language Models, Advanced NoSQL for Data Science, Docker for Data Scientists, Redis Essentials, Elasticsearch Essentials, Flask Essentials, Transformers: Text Classification for NLP Using BERT."
-    - "IBM: Deep Learning with TensorFlow, Data Science Foundations and Methodologies."
-    - "DeepLearning.AI: Neural Networks, Convolutional Neural Networks, Supervised & Unsupervised Learning."
-    - "Coursera: Text Analytics with Amazon Comprehend, AWS Elastic Beanstalk, Chatbot with Rasa & Python."
-    - "Google: Data Analytics Professional Certificate, Project Management."
 
 - title: Languages and Interests
   type: list
