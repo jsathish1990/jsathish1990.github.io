@@ -114,6 +114,14 @@
       "highlights": []
     }
   ],
+  "languages": [
+    {
+      "language": "English"
+    },
+    {
+      "language": "Tamil"
+    }
+  ],
   "certificates": [
     {
       "name": "AWS Certified Cloud Practitioner"
