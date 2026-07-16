@@ -33,8 +33,8 @@
       "name": "Fractal",
       "position": "Data Science at Fractal",
       "url": "",
-      "startDate": "2024-08-21",
-      "endDate": "",
+      "startDate": "2024",
+      "endDate": "2026",
       "summary": "",
       "highlights": [
         "Classification, regression, time series forecasting problems (GCP/Jupyter Notebook), data cleaning, contingency table for categorical data",
@@ -45,8 +45,8 @@
       "name": "Udemy",
       "position": "Part-Time Instructor",
       "url": "",
-      "startDate": "10-2023",
-      "endDate": "2024-07-31",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "Problem solving with PySpark, Prompt Engineering and Generative AI - Fundamentals",
       "highlights": []
     },
@@ -54,8 +54,8 @@
       "name": "Eviden",
       "position": "AI Engineer",
       "url": "",
-      "startDate": "04-2023",
-      "endDate": "09-2023",
+      "startDate": "2023",
+      "endDate": "2023",
       "summary": "Worked on Natural Language Processing with large language models like GPT-3.5",
       "highlights": [
         "LLM Finetuning",
@@ -68,8 +68,8 @@
       "name": "SynergisticIT",
       "position": "Data Science and ML Engineer",
       "url": "",
-      "startDate": "02-2022",
-      "endDate": "02-2023",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "Data Science and Machine Learning - Regression and Classification problems",
       "highlights": [
         "Predicted Parkinson’s disease onset using classification algorithms",
@@ -81,8 +81,8 @@
       "name": "Lam Research",
       "position": "Engineer 3",
       "url": "",
-      "startDate": "06-2021",
-      "endDate": "02-2022",
+      "startDate": "2021",
+      "endDate": "2022",
       "summary": "Applied regression techniques on datasets to model temperature.",
       "highlights": []
     },
@@ -90,8 +90,8 @@
       "name": "Amazon, Atlanta GA",
       "position": "Intern",
       "url": "",
-      "startDate": "05-2020",
-      "endDate": "08-2020",
+      "startDate": "2020",
+      "endDate": "2020",
       "summary": "Data analytics based internship.",
       "highlights": []
     },
@@ -99,8 +99,8 @@
       "name": "Georgia Institute of Technology",
       "position": "Graduate Research Assistant / Graduate Teaching Assistant",
       "url": "",
-      "startDate": "08-2015",
-      "endDate": "05-2021",
+      "startDate": "2015",
+      "endDate": "2021",
       "summary": "Conducted data analytics for CVR factor extraction on time-series data and analytics on voltage sag occurrences.",
       "highlights": []
     },
@@ -108,8 +108,8 @@
       "name": "Rockwell Automation, Mequon, WI",
       "position": "Engineer",
       "url": "",
-      "startDate": "05-2013",
-      "endDate": "07-2015",
+      "startDate": "2013",
+      "endDate": "2015",
       "summary": "Design for Six Sigma Greenbelt; statistical hypothesis testing (T-test) and regression.",
       "highlights": []
     }
