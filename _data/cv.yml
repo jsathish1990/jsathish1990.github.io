@@ -16,7 +16,6 @@
       year: 2021
       description:
         - "CGPA: 3.85"
-        - "Thesis: Improving Energy Efficiency and Productivity at Industrial Plants using Dynamic Voltage Management"
     - title: M.Sc., Electrical Engineering
       institution: University of Minnesota
       year: 2014
@@ -32,7 +31,7 @@
   type: time_table
   contents:
     - title: Data Science at Fractal Analytics
-      year: 2024-2026
+      year: 2024-Current
       description:
         - Classification, regression, time series forecasting problems (GCP/Jupyter Notebook),
         - Data cleaning, contingency table for categorical data
@@ -56,7 +55,7 @@
     - title: Data Science and ML Engineer with SynergisticIT
       year: 2022-2023
       description:
-        - Predicted Parkinson's disease onset using classification algorithms.
+        - Predicted Parkinson’s disease onset using classification algorithms.
         - Utilized deep learning for CIFAR-10 dataset image classification.
         - Performed sentiment analysis on e-commerce reviews using NLP tools.
 
