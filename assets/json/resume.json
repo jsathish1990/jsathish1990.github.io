@@ -113,5 +113,28 @@
       "summary": "Design for Six Sigma Greenbelt; statistical hypothesis testing (T-test) and regression.",
       "highlights": []
     }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner"
+    },
+    {
+      "name": "AWS Certified Solutions Architect – Associate"
+    },
+    {
+      "name": "Generative AI Fundamentals, Introduction to Large Language Models, Advanced NoSQL for Data Science, Docker for Data Scientists, Redis Essentials, Elasticsearch Essentials, Flask Essentials, Transformers: Text Classification for NLP Using BERT"
+    },
+    {
+      "name": "IBM: Deep Learning with TensorFlow, Data Science Foundations and Methodologies"
+    },
+    {
+      "name": "DeepLearning.AI: Neural Networks, Convolutional Neural Networks, Supervised & Unsupervised Learning"
+    },
+    {
+      "name": "Coursera: Text Analytics with Amazon Comprehend, AWS Elastic Beanstalk, Chatbot with Rasa & Python"
+    },
+    {
+      "name": "Google: Data Analytics Professional Certificate, Project Management"
+    }
   ]
 }
