@@ -31,7 +31,7 @@
   type: time_table
   contents:
     - title: Data Science at Fractal Analytics
-      year: 2024-Current
+      year: 2024-2026
       description:
         - Classification, regression, time series forecasting problems (GCP/Jupyter Notebook),
         - Data cleaning, contingency table for categorical data
