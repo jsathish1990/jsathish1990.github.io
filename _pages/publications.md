@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 
 - S. Jayaraman, M. Miranbeigi, P. Kandula, D. Divan, "Improving Energy Efficiency and Productivity at Industrial Plants Using Dynamic Voltage Management," IEEE Transactions on Industry Applications, 2020.
