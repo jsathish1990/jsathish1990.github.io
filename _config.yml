@@ -466,7 +466,6 @@ jekyll_get_json:
     json: assets/json/resume.json
 jsonresume:
   - basics
-  - languages
   - education
   - work
   - certificates
