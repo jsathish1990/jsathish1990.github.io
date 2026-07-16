@@ -7,13 +7,13 @@ nav: true
 nav_order: 5
 ---
 
-## **EE 3741 - Graduate Teaching Assistant**
+## **1. EE 3741 - Graduate Teaching Assistant**
 
 Georgia Institute of Technology
 
 ---
 
-## **1. Problem Solving using PySpark - Classification and Regression**
+## **2. Problem Solving using PySpark - Classification and Regression**
 
 [Course Link](https://www.udemy.com/course/problem-solving-using-pyspark-regression-classification/)
 
@@ -27,7 +27,7 @@ This Udemy course is based on real-world problems covering :
 - Time Series Analytics and Forecast using PySpark and Prophet.
 - PySpark SQL for data querying.
 
-## **2. Prompt Engineering and Generative AI - Fundamentals**
+## **3. Prompt Engineering and Generative AI - Fundamentals**
 
 [Course Link](https://www.udemy.com/course/prompt-engineering-and-generative-ai-fundamentals)
 
@@ -40,7 +40,7 @@ This Udemy course covers:
 - Finetuning a Large Language Model, types of LLM fine-tuning, Example showing Task Specific Fine-tuning an LLM.
 - Guardrails to ensure respectful and appropriately structured response from an LLM.
 
-## **3. Time Series Analysis and Forecasting**
+## **4. Time Series Analysis and Forecasting**
 
 [Course Link](https://www.udemy.com/course/time-series-analysisandforecastingusingpython/)
 
