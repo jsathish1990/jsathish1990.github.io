@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Data science and machine learning professional with six years of experience in data analytics, machine learning, and deep learning. Proficient in Python and PyTorch, with hands-on experience in the area of NLP, prompt engineering and forecasting. I am actively looking for opportunities where I can apply and grow my expertise in data science and applied machine learning.
+Data Science professional with expertise in data analytics, predictive modeling and statistical techniques for analyzing data into meaningful insights. Experienced in classification, regression, time series forecasting and NLP, large language models, deep learning and cloud platforms (AWS, GCP).
