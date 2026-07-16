@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+## **EE 3741 - Graduate Teaching Assistant**
+
+Georgia Institute of Technology
+
+---
+
 ## **1. Problem Solving using PySpark - Classification and Regression**
 
 [Course Link](https://www.udemy.com/course/problem-solving-using-pyspark-regression-classification/)
