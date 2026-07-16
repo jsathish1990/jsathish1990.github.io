@@ -15,7 +15,7 @@ profile:
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Data Science professional with expertise in data analytics, predictive modeling and statistical techniques for analyzing data into meaningful insights. Experienced in classification, regression, time series forecasting and NLP, large language models, deep learning and cloud platforms (AWS, GCP).
