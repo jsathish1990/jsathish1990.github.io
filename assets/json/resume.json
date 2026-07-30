@@ -12,6 +12,12 @@
   },
   "education": [
     {
+      "institution": "University of Colorado",
+      "studyType": "Relevant Graduate Coursework",
+      "startDate": "2026",
+      "courses": ["Probability for Data Science and AI · Statistical Estimation · Statistical Inference and Hypothesis Testing (R) · Supervised and Unsupervised Machine Learning (Python) · Introduction to Deep Learning · Data Mining Pipeline"]
+    },
+    {
       "institution": "Georgia Institute of Technology (CGPA: 3.85)",
       "studyType": "Ph.D., Electrical Engineering",
       "startDate": "2015",
