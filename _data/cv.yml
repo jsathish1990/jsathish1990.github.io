@@ -11,6 +11,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Relevant Graduate Coursework
+      institution: University of Colorado
+      year: 2026
+      description:
+        - "Probability for Data Science and AI · Statistical Estimation · Statistical Inference and Hypothesis Testing (R) · Supervised and Unsupervised Machine Learning (Python) · Introduction to Deep Learning · Data Mining Pipeline"
     - title: Ph.D., Electrical Engineering
       institution: Georgia Institute of Technology
       year: 2021
