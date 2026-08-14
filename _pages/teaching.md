@@ -26,6 +26,7 @@ This Udemy course is based on real-world problems covering :
 - Analytics and Text Sentiment Classification : Spark NLP.
 - Time Series Analytics and Forecast using PySpark and Prophet.
 - PySpark SQL for data querying.
+- Bonus : Prompting Claude for Exploratory Data Analysis
 
 ## **3. Prompt Engineering and Generative AI - Fundamentals**
 
