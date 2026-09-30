@@ -13,7 +13,7 @@ Georgia Institute of Technology
 
 ---
 
-## **2. Problem Solving using PySpark - Classification and Regression**
+## **2. Problem Solving using PySpark - Regression & Classification**
 
 [Course Link](https://www.udemy.com/course/problem-solving-using-pyspark-regression-classification/) · [Course GitHub Repository](https://github.com/jsathish1990/problem-solving-using-pyspark)
 
@@ -41,7 +41,7 @@ This Udemy course covers:
 - Finetuning a Large Language Model, types of LLM fine-tuning, Example showing Task Specific Fine-tuning an LLM.
 - Guardrails to ensure respectful and appropriately structured response from an LLM.
 
-## **4. Time Series Analysis and Forecasting**
+## **4. Time Series Analysis and Forecasting Using Python**
 
 [Course Link](https://www.udemy.com/course/time-series-analysisandforecastingusingpython/)
 
