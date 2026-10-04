@@ -30,7 +30,7 @@ This Udemy course is based on real-world problems covering :
 
 ## **3. Prompt Engineering and Generative AI - Fundamentals**
 
-[Course Link](https://www.udemy.com/course/prompt-engineering-and-generative-ai-fundamentals)
+[Course Link](https://www.udemy.com/course/prompt-engineering-and-generative-ai-fundamentals) · [Course GitHub Repository](https://github.com/jsathish1990/prompt-engineering-and-generative-ai-fundamentals)
 
 This Udemy course covers:
 
