@@ -36,17 +36,16 @@ pagination:
   font-size: 15px;
   font-weight: 600;
   margin: 0 0 6px 0;
-  display: flex;
-  align-items: center;
-  gap: 4px;
 }
 .post .post-list li h3 a {
   color: var(--global-theme-color);
 }
 .post .post-list li h3 svg {
-  width: 1rem;
-  height: 1rem;
-  flex-shrink: 0;
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  vertical-align: middle;
+  margin-left: 2px;
 }
 .post .post-list li > p {
   font-size: 13px;
@@ -78,7 +77,7 @@ pagination:
   </div>
   {% endif %}
 
-{% if site.display_tags or site.display_categories %}
+{% if site.display_tags.size > 0 or site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
@@ -180,10 +179,9 @@ pagination:
         {% if post.redirect == blank %}
           <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% elsif post.redirect contains '://' %}
-          <a class="post-title" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
-          <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+          <a class="post-title" href="{{ post.redirect }}" target="_blank">{{ post.title }}<svg viewBox="3 2 19 19" xmlns="http://www.w3.org/2000/svg">
             <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
-          </svg>
+          </svg></a>
         {% else %}
           <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
         {% endif %}
