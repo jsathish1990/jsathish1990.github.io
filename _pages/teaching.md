@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Udemy
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## **1. EE 3741 - Graduate Teaching Assistant**
