@@ -17,23 +17,48 @@ pagination:
 ---
 
 <style>
+.post .post-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+}
 .post .post-list li {
+  width: 400px;
+  max-width: 100%;
   border: 1px solid var(--global-divider-color);
-  border-radius: 8px;
-  padding: 1rem 1.25rem;
-  margin-bottom: 1rem;
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin: 0;
 }
 .post .post-list li h3 {
-  font-size: 1.25rem;
-  margin-bottom: 0.25rem;
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0 0 6px 0;
   display: flex;
   align-items: center;
-  gap: 0.25rem;
+  gap: 4px;
+}
+.post .post-list li h3 a {
+  color: var(--global-theme-color);
 }
 .post .post-list li h3 svg {
-  width: 1.25rem;
-  height: 1.25rem;
+  width: 1rem;
+  height: 1rem;
   flex-shrink: 0;
+}
+.post .post-list li > p {
+  font-size: 13px;
+  color: var(--global-text-color);
+  opacity: 0.75;
+  margin: 0 0 6px 0;
+}
+.post .post-list li .post-meta {
+  font-size: 12px;
+  color: var(--global-text-color);
+  opacity: 0.5;
+  margin: 0;
 }
 .post .post-list li .post-tags {
   display: none;
@@ -165,7 +190,6 @@ pagination:
       </h3>
       <p>{{ post.description }}</p>
       <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
         {{ post.date | date: '%B %d, %Y' }}
         {% if post.external_source %}
         &nbsp; &middot; &nbsp; {{ post.external_source }}
