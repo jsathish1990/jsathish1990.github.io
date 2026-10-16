@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /medium/
-title: medium
+title: Medium
 nav: true
 nav_order: 4
 pagination:
@@ -15,6 +15,30 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
+
+<style>
+.post .post-list li {
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+.post .post-list li h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+.post .post-list li h3 svg {
+  width: 1.25rem;
+  height: 1.25rem;
+  flex-shrink: 0;
+}
+.post .post-list li .post-tags {
+  display: none;
+}
+</style>
 
 <div class="post">
 
