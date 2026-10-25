@@ -8,3 +8,4 @@ external_source: Medium
 tags: [medium]
 categories: [external-posts]
 ---
+A survey of imputation techniques for missing climate data, from statistical and geostatistical methods to machine and deep learning, and their use in climate vulnerability analysis.
