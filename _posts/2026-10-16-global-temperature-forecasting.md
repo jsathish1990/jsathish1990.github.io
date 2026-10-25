@@ -8,3 +8,4 @@ external_source: Medium
 tags: [medium]
 categories: [external-posts]
 ---
+A gentle introduction to global temperature forecasting, from statistical models to machine learning, deep learning and LLMs.
