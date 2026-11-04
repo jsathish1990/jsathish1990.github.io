@@ -62,6 +62,54 @@ pagination:
 .post .post-list li .post-tags {
   display: none;
 }
+.medium-layout {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.medium-layout > .post-list {
+  flex: 0 1 400px;
+}
+.medium-sidebar-card {
+  width: 400px;
+  max-width: 100%;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  padding: 16px 20px;
+}
+.medium-sidebar-card h3 {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0;
+}
+.medium-sidebar-card h3 a {
+  color: var(--global-theme-color);
+}
+.medium-sidebar-card > p {
+  font-size: 13px;
+  color: var(--global-text-color);
+  opacity: 0.75;
+  margin: 0 0 6px 0;
+}
+.medium-sidebar-card .post-meta {
+  font-size: 12px;
+  color: var(--global-text-color);
+  opacity: 0.5;
+  margin: 0;
+}
+.medium-sidebar-card h3 svg {
+  display: inline-block;
+  width: 0.75em;
+  height: 0.75em;
+  vertical-align: middle;
+  margin-left: 2px;
+}
+@media (max-width: 850px) {
+  .medium-layout {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
 </style>
 
 <div class="post">
@@ -149,6 +197,7 @@ pagination:
 
 {% endif %}
 
+  <div class="medium-layout">
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
@@ -228,6 +277,17 @@ pagination:
     {% endfor %}
 
   </ul>
+
+  <div class="medium-sidebar-card">
+    <h3>
+      <a href="https://medium.com/towards-artificial-intelligence/k-fold-cross-validation-and-data-leakage-in-the-context-of-climatology-forecasts-cfbf9e884850" target="_blank" rel="noopener noreferrer">K-Fold Cross-Validation and Data Leakage in the Context of Climatology Forecasts<svg viewBox="3 2 19 19" xmlns="http://www.w3.org/2000/svg">
+        <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg></a>
+    </h3>
+    <p>K-Fold Cross-Validation, Data Leakage and a Temperature Anomaly Forecasting Example Using the HadCRUT5 Dataset</p>
+    <p class="post-meta">November 2, 2026 &nbsp; &middot; &nbsp; Medium</p>
+  </div>
+  </div>
 
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
