@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Data Science professional with expertise in data analytics, predictive modeling and statistical techniques for analyzing data into meaningful insights. Experienced in classification, regression, time series forecasting and NLP, large language models, deep learning and cloud platforms (AWS, GCP).
+Data Science professional with expertise in data analytics, predictive modeling and statistical techniques for analyzing data into meaningful insights. Experienced in classification, regression, time series forecasting and NLP, large language models, deep learning and cloud platforms (AWS, GCP, Azure).
