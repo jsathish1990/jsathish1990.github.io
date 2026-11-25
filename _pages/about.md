@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Open to new opportunities</p>
+    <p>Seeking Senior Consultant / Senior (Lead) Data Scientist roles.</p>
     <p><a href="mailto:jsathish1990@gmail.com">jsathish1990[at]gmail[dot]com</a></p>
 
 news: false # includes a list of news items
